@@ -1,3 +1,6 @@
+Nome: Daniel Ribeiro Paiva
+Matrícula: 116031041
+
 # SLR vs LALR
 
 Trabalho da disciplina Compiladores 2021.1
