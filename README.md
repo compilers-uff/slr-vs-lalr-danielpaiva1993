@@ -1,5 +1,6 @@
-Nome: Daniel Ribeiro Paiva
-Matrícula: 116031041
+### Nome: Daniel Ribeiro Paiva
+
+### Matrícula: 116031041
 
 # SLR vs LALR
 
